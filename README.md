@@ -1,2 +1,1 @@
-# V3ray
-V3ray Free Premium
+v3ray
